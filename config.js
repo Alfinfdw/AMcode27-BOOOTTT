@@ -37,19 +37,19 @@ global.sdc = 'https://discord.gg/wPKuMwkf' //discord
 global.snh = 'https://youtube.com/c/JasBiruLangit?sub_confirmation=1' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085211112701' //dana
-global.povo = '085211112701' //ovo
-global.pgopay = '085211112701' //gopay
-global.plinkaja = '085211112701' //link aja
-global.ppulsa = '085211112701' //telkomsel
-global.ppulsa2 = '08213037447' // kalau ada kartu lain isi aja
+global.pdana = '085852939370' //dana
+global.povo = '085852939370' //ovo
+global.pgopay = '082223011829' //gopay
+global.plinkaja = '085852939370' //link aja
+global.ppulsa = '082223011829' //telkomsel
+global.ppulsa2 = '085852939370' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/amcode27'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283813417529'
-global.nomorown = '6282146218274'
-global.namebot = 'REREBOTZ'
-global.nameown = 'RERECANS🌺'
+global.nomorbot = '6285852939370'
+global.nomorown = '6282223011829'
+global.namebot = 'NLhBOTZ'
+global.nameown = 'ALganzofc'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283840600765', 'RiellXd', true],
-  ['6282146218274', 'RiellXd', true],
+  ['6285852939370', 'ALganz', true],
+  ['6282223011829', 'ALganz', true],
   ['6282146218274', 'RiellXd', true],
   ['6283840600765', 'RiellXd', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
